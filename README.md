@@ -25,7 +25,6 @@ I’m always excited about collaborating on:
 
 ## 📫 How to reach me
 - ✉️ **Email**: [kobbygilbert233@gmail.com](mailto:kobbygilbert233@gmail.com)
-- 🔗 **LinkedIn**: [LinkedIn Profile](#)
 
 ## 😄 Fun Fact
 I enjoy tackling new challenges and believe every problem is an opportunity to learn and grow. I’m always excited to build things that solve real-world problems.
