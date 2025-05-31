@@ -1,36 +1,63 @@
-# 👋 Hi, I’m **Kobby24**
+# 👋 Hi, I’m **Kobby24**  
+🎯 *Backend Developer | Python Enthusiast | USSD & Telco Solutions Builder*
 
-Welcome to my profile! I’m a backend developer passionate about building efficient, scalable systems with Python. I love solving complex problems and optimizing performance in web applications.
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg?logo=python)](https://www.python.org/)  
+[![Django](https://img.shields.io/badge/Django-%23232F3E.svg?logo=django&logoColor=white)](https://www.djangoproject.com/)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)  
+[![Twilio](https://img.shields.io/badge/Twilio-Red?logo=twilio&logoColor=white)](https://www.twilio.com/)  
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)  
+[![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+
+---
 
 ## 👀 Interests
-- 🖥️ **Backend Development**: Creating robust, high-performance server-side applications.  
-- 🐍 **Python & SQL**: Writing optimized queries and backend logic for data-driven applications.  
-- 🤖 **Machine Learning & AI**: Exploring Python’s role in AI and automation.  
-- 📲 **USSD & Telco Integration**: Building interactive mobile solutions using Twilio and Node.js.  
+- 🖥️ **Backend Development**: Building scalable, maintainable systems.
+- 🐍 **Python & SQL**: Writing high-performance backend logic and data access layers.
+- 🤖 **Machine Learning & AI**: Experimenting with Python-based AI projects.
+- 📲 **USSD & Telco Integration**: Crafting mobile solutions using Twilio, Django, and Node.js.
 
-## 🌱 Currently Learning & Working On
-- 🚀 **Flask & SQLAlchemy**: Mastering web development with Flask and database management with SQLAlchemy.  
-- ⚙️ **Django & PostgreSQL**: Developing full-stack applications with Django and PostgreSQL databases.  
-- 🧠 **USSD App Development**: Creating USSD flows using Twilio with Django and Node.js.  
-- 🎯 **Advanced Backend Architectures**: Improving API design, authentication, and security best practices.  
-- 🖼️ **Python Image Automation**: Automating image text overlays, profile image replacements, and layout customization.
+---
+
+## 🌱 Currently Learning & Building
+- 🚀 Advanced **Flask + SQLAlchemy** architecture  
+- ⚙️ **Django + PostgreSQL** full-stack projects  
+- 🔐 Secure APIs with **Token Authentication**  
+- 📞 Twilio-powered **USSD services** in Django & Node.js  
+- 🖼️ Automated **image card generation** with Python  
+- 📄 Branded **PDF reports** using FPDF  
+- 📈 Smart **student grading** & preview logic  
+- 🌐 React interfaces for **Django APIs**  
+
+---
 
 ## 💼 Projects & Achievements
-- 🛠️ **Car Auto Parts Marketplace**: Developed a full-stack Django web app for buying and selling car auto parts, including multi-step dynamic forms.  
-- 📊 **SQL Query Optimization**: Focused on writing highly efficient SQL queries for scalable applications.  
-- 📞 **Twilio USSD Integration**: Built interactive USSD services using Twilio with both Django and Node.js.  
-- 🖼️ **Python Image Processing Script**: Automated custom card generation with image and text overlay features.  
-- 🎓 **Computer Science Major**: Specializing in backend development, database systems, and application architecture.
+- 🛠️ **Car Auto Parts Marketplace**: Multi-step Django web app for listing and purchasing auto parts.  
+- 📊 **SQL Query Optimization**: Efficient data querying in production systems.  
+- 📞 **USSD via Twilio**: Mobile service development with Django/Node.js.  
+- 🖼️ **Image Processing Script**: Automated overlays with dynamic positioning and font handling.  
+- 🧠 **Grade Preview System**: Logic-driven grade visibility with editable conditions.  
+- 📄 **PDF Terminal Reports**: Auto-generated, data-rich student reports with branding.
+
+---
 
 ## 💞️ Open to Collaborations
-I’m excited to collaborate on:  
-- 💡 Open-source backend projects  
-- 🖥️ Python/Django-based web solutions  
-- 📞 Telco-related USSD or SMS applications  
-- 🌐 Scalable, efficient, and automated backend systems  
+Let’s work together on:
+- 💡 Open-source backend or automation tools  
+- 🖥️ Python/Django projects  
+- 📞 USSD & SMS applications  
+- ⚙️ High-performance APIs and backend systems
 
-## 📫 How to Reach Me
+---
+
+## 📫 Get in Touch
 - ✉️ **Email**: [kobbygilbert233@gmail.com](mailto:kobbygilbert233@gmail.com)  
 
+---
+
 ## 😄 Fun Fact
-I believe every challenge is an opportunity to learn and grow. If it can be automated, optimized, or improved, I’m all in!  
+Every challenge is an opportunity. If it can be **automated**, **optimized**, or **improved**—I'm all in!
+
+---
+
+> 📌 *“Great systems are not just built—they're engineered with intention.”*
