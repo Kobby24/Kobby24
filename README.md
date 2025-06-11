@@ -5,9 +5,12 @@
 [![Django](https://img.shields.io/badge/Django-%23232F3E.svg?logo=django&logoColor=white)](https://www.djangoproject.com/)  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
 [![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)  
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)  
 [![Twilio](https://img.shields.io/badge/Twilio-Red?logo=twilio&logoColor=white)](https://www.twilio.com/)  
 [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org/)  
-[![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white)](https://nodejs.org/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ---
 
@@ -16,18 +19,20 @@
 - 🐍 **Python & SQL**: Writing high-performance backend logic and data access layers.
 - 🤖 **Machine Learning & AI**: Experimenting with Python-based AI projects.
 - 📲 **USSD & Telco Integration**: Crafting mobile solutions using Twilio, Django, and Node.js.
+- ⚡ **JavaScript & TypeScript**: Developing full-stack applications and React interfaces.
 
 ---
 
 ## 🌱 Currently Learning & Building
 - 🚀 Advanced **Flask + SQLAlchemy** architecture  
 - ⚙️ **Django + PostgreSQL** full-stack projects  
+- ⚡ Fast, async APIs with **FastAPI**  
 - 🔐 Secure APIs with **Token Authentication**  
 - 📞 Twilio-powered **USSD services** in Django & Node.js  
+- 🌐 Full-stack apps with **React, JavaScript & TypeScript**  
 - 🖼️ Automated **image card generation** with Python  
 - 📄 Branded **PDF reports** using FPDF  
 - 📈 Smart **student grading** & preview logic  
-- 🌐 React interfaces for **Django APIs**  
 
 ---
 
@@ -44,9 +49,10 @@
 ## 💞️ Open to Collaborations
 Let’s work together on:
 - 💡 Open-source backend or automation tools  
-- 🖥️ Python/Django projects  
+- 🖥️ Python/Django/FastAPI projects  
+- ⚛️ Full-stack React + TypeScript/JavaScript solutions  
 - 📞 USSD & SMS applications  
-- ⚙️ High-performance APIs and backend systems
+- ⚙️ High-performance APIs and backend systems  
 
 ---
 
